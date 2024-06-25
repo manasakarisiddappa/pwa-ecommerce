@@ -21,6 +21,7 @@ using React.js and Tailwind CSS.
 ● Implement service workers to enable offline capabilities.
 ● Ensure the application meets PWA standards for performance and user experience
 - Used Workbox for caching and to enable offline capabilities.
+- It will work in production mode. Use npm run build and serve -s build to run in production mode.
 ![image](https://github.com/manasakarisiddappa/pwa-ecommerce/assets/48428277/a30b327a-725a-49e1-b489-05e95ffa4f71)
 ![image](https://github.com/manasakarisiddappa/pwa-ecommerce/assets/48428277/7c7e85c3-ea81-4a0d-9e09-e7edbac491d5)
 ![image](https://github.com/manasakarisiddappa/pwa-ecommerce/assets/48428277/d229028e-cf62-4008-b027-4f7965694445)
